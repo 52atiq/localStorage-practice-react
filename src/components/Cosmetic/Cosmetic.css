@@ -1,0 +1,13 @@
+
+.cosmetic-container{
+     /* display: grid; */
+     /* grid-template-columns: repeat(5,1fr); */
+}
+.cosmetic{
+     background-color: sandybrown;
+     margin: 20px;
+     padding: 20px;
+     color: white;
+     font-weight: 900;
+     font-size: 20px;
+}

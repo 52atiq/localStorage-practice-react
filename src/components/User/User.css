@@ -1,0 +1,11 @@
+.user img{
+    height: 200px;
+    width: 200px;
+}
+.user{
+    background-color: orangered;
+    margin: 20px;
+    height: 400px;
+    width: 300px;
+    margin-left: 70px;
+}
